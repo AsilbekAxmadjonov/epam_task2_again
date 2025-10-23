@@ -1,0 +1,24 @@
+From 93c97fb52c99d1ce985048b6f656479c885c4caa Mon Sep 17 00:00:00 2001
+From: anyone <anyone@gmail.com>
+Date: Fri, 24 Oct 2025 00:45:16 +0500
+Subject: [PATCH] updated firstFile.txt lines 1 and 2 in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..6dc4cf6 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++updated in git_1
++updated in git_1
+ 3
+ 4
+ 5
+-- 
+2.50.1 (Apple Git-155)
+
