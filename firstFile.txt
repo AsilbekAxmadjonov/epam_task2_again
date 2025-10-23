@@ -4,6 +4,10 @@ updated in git_1
 4
 updated in folder1
 updated in folder1
+updated in folder2
+updated in folder2
+5
+6
 7
 8
 updated in git_1
